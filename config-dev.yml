@@ -1,5 +1,2 @@
-server:
-  port: 3355
-
 config:
-  info: i love you12
+  info: master dev config-dev.yml hhhh
