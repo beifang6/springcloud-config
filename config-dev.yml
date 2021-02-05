@@ -1,4 +1,5 @@
 server:
   port: 3355
 
-
+config:
+  info: i love you
